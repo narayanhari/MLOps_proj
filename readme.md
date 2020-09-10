@@ -47,6 +47,9 @@ To achieve that run the following code.
 
 ![Login Page](https://github.com/prasadpriyesh1/MLOps_proj/blob/master/Screenshot%20%28123%29.png)
 
+> username : omkar
+> password : Omkar2107@
+
 ![Feed Page](https://github.com/prasadpriyesh1/MLOps_proj/blob/master/Screenshot%20%28124%29.png)
 
 ![video1](https://github.com/prasadpriyesh1/MLOps_proj/blob/master/Screenshot%20%28125%29.png)

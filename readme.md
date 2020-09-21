@@ -23,7 +23,7 @@ run_dist task runs the server code. This task runs automatically if the build of
 ![run_dist (1)](https://github.com/prasadpriyesh1/MLOps_proj/blob/master/Screenshot%20%28118%29.png)
 
 ![run_dist (2)](https://github.com/prasadpriyesh1/MLOps_proj/blob/master/Screenshot%20%28119%29.png)
-> note: run_dist will execute until the server is running and stopping this task will result in stopping the server
+> note: run_dist will execute until the server is running and stopping this task will result in stopping the server.(Thus this task can never actually complete because it will need to be stopped to stop the server)
 
 # Start server
 
